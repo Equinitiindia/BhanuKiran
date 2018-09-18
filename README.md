@@ -21,9 +21,9 @@ We expect the submission you provide to contain the following:
 
 - a complete solution runnable on Windows;
 - structured, readable, maintainable code;
-- comments;
+- comments - use these to document your decisions and thought processes;
 
-The data can just be persisted to a file on the file system, we don't expect a database.
+The data can just be persisted to a file on the file system, or you may wish to use a database.
 
 You should follow industry best practices and consider: separation of concerns, testability, security, scalability and performance.
 
