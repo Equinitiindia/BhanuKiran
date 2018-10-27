@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\BhanuKiran\WebApiTest\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\admin\Desktop\BhanuKiran\WebApiTest\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\admin\Desktop\BhanuKiran\WebApiTest\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\BhanuKiran\WebApiTest\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\admin\Desktop\BhanuKiran\WebApiTest\BussinessLogic\obj\Debug\BussinessLogic.pdb
